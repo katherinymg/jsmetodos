@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+button {
+    background-color: rgb(12, 61, 8);
+    color: rgb(239, 242, 245);
+}
+
+.contenedortareas {
+margin-top: 20px;
+margin-left: 50px;
+}
+
+.nuevatarea {
+    margin: 20px;
+}
